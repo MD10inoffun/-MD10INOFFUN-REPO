@@ -9,9 +9,7 @@
             "request": "launch",
             "type": "msedge",
             "url": "http://localhost:8080",
-            "webRoot": "
-        },
-        {
+            "webRoot" "${workspaceFolder}\\app.jprogram": "s"
             "type": "blazorwasm",
             "name": "Launch and Debug Blazor WebAssembly Application",
             "request": "launch"
